@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: poppins, sans-serif;
+}
+
+h2 {
+  font-size: 0.75rem;
+  font-weight: normal;
+}
+
+section {
+  padding: 20px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.gray {
+  color: #918E9B
+}
