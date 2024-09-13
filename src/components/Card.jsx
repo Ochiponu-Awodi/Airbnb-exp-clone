@@ -18,7 +18,7 @@ function Card (props) {
                 <div className='card--badge'>{badgeText}</div>
             }
             <img 
-                src={`/${props.coverImg}`} className="card--image" alt='Image of Katie Zaferes'
+                src={props.coverImg} className="card--image" alt='Image of Katie Zaferes'
             />
             <div className="card--stats">
                 <img 
